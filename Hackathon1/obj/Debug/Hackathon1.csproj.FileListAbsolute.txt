@@ -1,0 +1,6 @@
+c:\users\joão eduardo\documents\visual studio 2015\Projects\Hackathon1\Hackathon1\bin\Debug\Hackathon1.exe.config
+c:\users\joão eduardo\documents\visual studio 2015\Projects\Hackathon1\Hackathon1\obj\Debug\Hackathon1.csprojResolveAssemblyReference.cache
+c:\users\joão eduardo\documents\visual studio 2015\Projects\Hackathon1\Hackathon1\bin\Debug\Hackathon1.exe
+c:\users\joão eduardo\documents\visual studio 2015\Projects\Hackathon1\Hackathon1\bin\Debug\Hackathon1.pdb
+c:\users\joão eduardo\documents\visual studio 2015\Projects\Hackathon1\Hackathon1\obj\Debug\Hackathon1.exe
+c:\users\joão eduardo\documents\visual studio 2015\Projects\Hackathon1\Hackathon1\obj\Debug\Hackathon1.pdb
